@@ -1,13 +1,15 @@
-﻿## Simple Login Template
+## React Native Simple Login Template
 
 Simple login template 
 
 ### More templates at [ReactNativeMarket.com](http://reactnativemarket.com/)
 
 ## Preview
-![HomeScreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
-![HomeScreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
-![HomeScreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
+![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
+![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/login.png)
+![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/register.png)
+![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/forgot.png)
+![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/dashboard.png)
 ## Live Preview
 
 link to codesandbox?
@@ -46,4 +48,3 @@ In case of any questions or problems, please contact me at:  [hello@reactnativem
 ### Happy Coding  💖
 
 ### [ReactNativeMarket.com](http://reactnativemarket.com/)
-
