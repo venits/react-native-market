@@ -1,45 +1,31 @@
-## React Native Simple Login Template
+﻿
+# [ReactNativeMarket.com](https://reactnativemarket.com)
 
-Simple login template 
+## React Native Templates & Starter Kits & Apps & Themes & Components for easier start.
 
-### More templates at [ReactNativeMarket.com](http://reactnativemarket.com/)
+### Why this product was created?
+We created React Native Market to save you countless hours of developing same apps and components all over again. With our templates you can directly focus on things that are really important in your app. All of our templates are high-quality, in terms of design, code modularisation, and customer support.
 
-## Preview
+**All templates have 2 formats: TypeScript and Javascript 🚀**
+
+### More templates at [ReactNativeMarket.com](http://reactnativemarket.com/) 💖
+
+## Templates
+
+### 1. Simple Login Template
 ![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
 ![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/login.png)
 ![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/register.png)
 ![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/forgot.png)
 ![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/dashboard.png)
-## Live Preview
 
-link to codesandbox?
-To expo also? Yes they don't have source code so no option to steel
 
-## Benefits
-- adasdas
-
-## How to use?
-
-1. Download or clone this repo.
-2. Install dependencies.
-```js
-npm install
-// or
-yarn install
-```
-
-3. Run project for iOS.
-```js
- npm run ios // npm run android
- // or 
- yarn ios // yarn android
-```
-
-Project was created using [Expo](https://expo.io/). If you want standard native project please run following command:
-```js
-expo eject
-```
-
+### 2. Dark Login Template
+![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/dark-login-template/homescreen.png)
+![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/dark-login-template/login.png)
+![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/dark-login-template/register.png)
+![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/dark-login-template/forgot.png)
+![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/dark-login-template/dashboard.png)
 
 ## Support
 
@@ -48,3 +34,4 @@ In case of any questions or problems, please contact me at:  [hello@reactnativem
 ### Happy Coding  💖
 
 ### [ReactNativeMarket.com](http://reactnativemarket.com/)
+
