@@ -33,10 +33,6 @@ All templates support 2 formats: **TypeScript and Javascript 🚀**
 ![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/forgot.png)
 ![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/dashboard.png)
 
-## Support
-
-In case of any questions or problems, please contact me at:  [hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
-
 ### Happy Coding  💖
 
 ### [ReactNativeMarket.com](http://reactnativemarket.com/)
