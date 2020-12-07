@@ -35,7 +35,8 @@ All templates support 2 formats: **TypeScript and Javascript 🚀**
 
 ## Support
 
-In case of any questions or problems, please contact me at:  [hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
+In case of any questions or problems, please contact me at:
+[hello@reactnativemarket.com](mailto:hello@reactnativemarket.com)
 
 ### Happy Coding  💖
 
