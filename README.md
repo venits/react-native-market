@@ -8,8 +8,6 @@ We created React Native Market to save you countless hours of developing same ap
 
 ### More templates at [ReactNativeMarket.com](http://reactnativemarket.com/) 💖
 
-### Templates
-
 ### Simple Login Template
 
 ![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/simple-login-template/homescreen.png)
