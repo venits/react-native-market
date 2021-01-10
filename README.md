@@ -24,13 +24,15 @@ We created React Native Market to save you countless hours of developing same ap
 ![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/dark-login-template/forgot.png)
 ![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/dark-login-template/dashboard.png)
 
-### Firebase Login Template
+### Firebase App Template
 
-![homescreen](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/homescreen.png)
-![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/login.png)
-![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/register.png)
-![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/forgot.png)
-![dashboard](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-login-template/dashboard.png)
+![start](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/start.png)
+![login](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/login.png)
+![register](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/register.png)
+![forgot](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/forgot-password.png)
+![home](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/home.png)
+![drawer](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/drawer.png)
+![profile](https://raw.githubusercontent.com/venits/react-native-market/master/assets/firebase-app-template/profile.png)
 
 ### Support
 
