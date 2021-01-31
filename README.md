@@ -4,7 +4,7 @@
 
 ### Why this product was created?
 
-We created React Native Market to save you countless hours of developing same apps and components all over again. With our templates you can directly focus on things that are really important in your app. All of our templates are high-quality, in terms of design, code modularisation, and customer support.
+We created React Native Market to save you countless hours of developing same apps and components all over again. With our templates you can directly focus on things that are really important in your app. All of our templates are high-quality, in terms of design, code modularisation and customer support.
 
 ### More templates at [ReactNativeMarket.com](http://reactnativemarket.com/) 💖
 
